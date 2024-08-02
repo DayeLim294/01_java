@@ -1,5 +1,7 @@
 package section02.assignmnet;
 
+import javax.lang.model.SourceVersion;
+
 public class Application {
     public static void main(String[] args) {
 
@@ -15,6 +17,25 @@ public class Application {
         *
         * */
 
+        int num =12;
+        System.out.println("num = " + num);
+
+        // 3 증가
+        num = num + 3;
+        System.out.println("num = " + num);
+
+        num += 3;
+        System.out.println("num = " + num);
+
+        // 5로 나눈 나머지 값
+        num %= 5;
+        System.out.println("num = " + num);
+
+        num = 12;
+        //num = num * 4.1;
+
+        num *= 4.1;
+        System.out.println("num = " + num);
 
 
 
