@@ -74,14 +74,14 @@ public class Question {
             System.out.println(str + "를 선택하셨습니다.");
             System.out.println("계산하시겠습니다?");
 
-            String yesno = scr.nextLine();
+            String yesorno = scr.nextLine();
 
-            if (yesno.equals("네")) {
+            if (yesorno.equals("네")) {
                 System.out.println("총 상품은 " + str);
                 System.out.println("총 금액은 " + price);
                 break;
 
-            } else if (yesno.equals("아니요")) {
+            } else if (yesorno.equals("아니요")) {
                 System.out.println("음료를 더 선택해 주세요");
 
             }
