@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af0d98d9-07bc-4bbd-97eb-f71ae4c4a9b4" name="Changes" comment="" />
+    <list default="true" id="af0d98d9-07bc-4bbd-97eb-f71ae4c4a9b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/ohgiraffers/question/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/ohgiraffers/question/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/ohgiraffers/question/LoginRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/ohgiraffers/question/LoginRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/ohgiraffers/question/LoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/ohgiraffers/question/LoginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/ohgiraffers/question/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/ohgiraffers/question/UserDTO.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/20240801-gangnam/01_java/chap09-polymorphism",
+    "last_opened_file_path": "C:/20240801-gangnam/01_java/chap10-api",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,6 +80,11 @@
       <workItem from="1723606011947" duration="3786000" />
       <workItem from="1723612611158" duration="7480000" />
       <workItem from="1723626197466" duration="820000" />
+      <workItem from="1723766079725" duration="768000" />
+      <workItem from="1723766877933" duration="40000" />
+      <workItem from="1723766925638" duration="24000" />
+      <workItem from="1723766960057" duration="1273000" />
+      <workItem from="1723789405751" duration="9049000" />
     </task>
     <servers />
   </component>
